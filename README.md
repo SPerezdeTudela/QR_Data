@@ -2,8 +2,7 @@
 
 ## Overview
 
-QR DataAtlantis is a data analysis project aimed at ensuring data integrity and quality within Quick Release Automotive's procurement processes. Drawing inspiration from the mysterious depths of Atlantis, we dive deep into the procurement ocean to uncover hidden insights, anomalies, and opportunities for improvement.
-
+Welcome to QRV DataMariner! We're diving into QRV's procurement ocean to uncover insights and ensure data integrity. Our project gives insights into data quality and identifies critical data points.
 ## Features
 
 - **Data Quality Assurance**: Identify and address discrepancies in procurement data.
