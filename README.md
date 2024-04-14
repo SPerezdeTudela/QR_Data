@@ -3,6 +3,7 @@
 ## Overview
 
 Welcome to QRV DataMariner! We're diving into QRV's procurement ocean to uncover insights and ensure data integrity. Our project gives insights into data quality and identifies critical data points.
+
 ## Features
 
 - **Data Quality Assurance**: Identify and address discrepancies in procurement data.
@@ -38,4 +39,4 @@ We welcome contributions! If you'd like to contribute to QR DataAtlantis, please
 
 ## License
 
-This project is licensed under the MIT License. See `LICENSE` for more details.
+This project is licensed under the MIT License.
