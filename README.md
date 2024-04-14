@@ -16,3 +16,32 @@ QR DataAtlantis is a data analysis project aimed at ensuring data integrity and 
 To run the project locally, follow these steps:
 
 1. Clone the repository:
+
+git clone https://github.com/yourusername/QR_DataAtlantis.git
+
+2. Navigate to the project directory:
+
+cd QR_DataAtlantis
+
+3. Install the required packages:
+
+pip install -r requirements.txt
+
+
+## Usage
+
+1. Ensure your dataset is placed in the `data` directory.
+2. Run the data analysis scripts to generate insights.
+3. Explore the visualizations and findings in the `results` directory.
+
+## Contribution
+
+We welcome contributions! If you'd like to contribute to QR DataAtlantis, please fork the repository and submit a pull request with your changes.
+
+## Support
+
+For any questions, issues, or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for more details.
