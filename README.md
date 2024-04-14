@@ -30,17 +30,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Ensure your dataset is placed in the `data` directory.
-2. Run the data analysis scripts to generate insights.
-3. Explore the visualizations and findings in the `results` directory.
+1. Run the data analysis scripts to generate insights.
+2. Explore the visualizations and findings within the jupyter notebook
 
 ## Contribution
 
 We welcome contributions! If you'd like to contribute to QR DataAtlantis, please fork the repository and submit a pull request with your changes.
-
-## Support
-
-For any questions, issues, or feedback, please contact us at [your-email@example.com](mailto:lucnguyen1416@gmail.com).
 
 ## License
 
