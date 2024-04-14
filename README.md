@@ -16,7 +16,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone [https://github.com/yourusername/QR_DataAtlantis.git](https://github.com/SPerezdeTudela/QR_Data.git)
+git clone [https://github.com/SPerezdeTudela/QR_DataAtlantis.git](https://github.com/SPerezdeTudela/QR_Data.git)
 
 2. Navigate to the project directory:
 
