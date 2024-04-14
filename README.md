@@ -6,9 +6,9 @@ Welcome to QRV DataMariner! We're diving into QRV's procurement ocean to uncover
 
 ## Features
 
-- **Data Quality Assurance**: Identify and address discrepancies in procurement data.
-- **Insightful Analysis**: Uncover trends, patterns, and outliers to enhance procurement strategies.
-- **Visualization**: Visual representations of data to aid in understanding and decision-making.
+- **Data Quality Assurance**: Identify and address discrepancies in the procurement data.
+- **Insightful Analysis**: Find trends, patterns, and outliers to better procurement strategies.
+- **Visualization**: Visual representations of data to help with the understanding.
 - **Data Integrity**: Ensure that all parts and procurement codes align with company standards and regulations.
 
 ## Installation
