@@ -40,7 +40,7 @@ We welcome contributions! If you'd like to contribute to QR DataAtlantis, please
 
 ## Support
 
-For any questions, issues, or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions, issues, or feedback, please contact us at [your-email@example.com](mailto:lucnguyen1416@gmail.com).
 
 ## License
 
